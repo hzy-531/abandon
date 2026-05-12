@@ -1,2 +1,3 @@
 # abandon
-代码&amp;数据
+代码DCC_GARCH为总建模数据，实际使用时可以只运行该代码，其他三个代码只分别做了数据处理与简单GARCH分析（其中data11文件需要在MATLAB里面手动上传股票市场数据运行）
+数据stock_data.xlsx对应股票市场数据，bond.xlsx对应国债数据而data.xlsx相对应债券数据
